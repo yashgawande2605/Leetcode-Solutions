@@ -35,6 +35,7 @@ Practice data structures and algorithms while preparing for coding interviews.
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -55,4 +56,8 @@ Practice data structures and algorithms while preparing for coding interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
