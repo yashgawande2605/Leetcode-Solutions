@@ -39,10 +39,19 @@ Practice data structures and algorithms while preparing for coding interviews.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
