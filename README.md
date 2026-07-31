@@ -16,6 +16,7 @@ Practice data structures and algorithms while preparing for coding interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -31,9 +32,14 @@ Practice data structures and algorithms while preparing for coding interviews.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
