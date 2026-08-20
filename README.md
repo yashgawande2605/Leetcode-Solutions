@@ -19,6 +19,7 @@ Practice data structures and algorithms while preparing for coding interviews.
 | [0014-longest-common-prefix](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ Practice data structures and algorithms while preparing for coding interviews.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/yashgawande2605/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
